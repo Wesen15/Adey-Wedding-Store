@@ -1,0 +1,15 @@
+﻿# Large archives & backups
+*.zip
+wedding.zip
+*.tar.gz
+*.rar
+
+# Environment & logs
+*.log
+.env
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
